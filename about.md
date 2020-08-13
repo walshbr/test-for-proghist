@@ -11,5 +11,5 @@ You can find the source code for the Jekyll new theme at:
 [minima](https://github.com/jekyll/minima)
 
 You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
+{% include icon-l username="jekyll" %} /
 [jekyll](https://github.com/jekyll/jekyll)
